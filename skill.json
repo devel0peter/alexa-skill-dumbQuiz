@@ -15,7 +15,6 @@
           ],
           "name": "Dumb Quiz",
           "description": "Test your general knowledge with work-a-day questions. Beware, they might be tricky sometimes!\nTo start, just say \"Alexa, launch Dumb Quiz\". You can stop the game anytime by saying \"Alexa, stop\".",
-          
           "smallIconUri": "",
           "largeIconUri": ""
         },
@@ -32,10 +31,9 @@
           ],
           "name": "Dumb Quiz",
           "description": "Test your general knowledge with work-a-day questions. Beware, they might be tricky sometimes!\nTo start, just say \"Alexa, launch Dumb Quiz\". You can stop the game anytime by saying \"Alexa, stop\".",
-          
           "smallIconUri": "",
           "largeIconUri": ""
-        },
+        }
       },
       "isAvailableWorldwide": true,
       "testingInstructions": "Include your testing instruction (if any) here",
